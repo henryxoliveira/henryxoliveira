@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**henryxoliveira/henryxoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryxoliveira&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryxoliveira&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=henryxoliveira&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henryxoliveira&theme=github-dark)
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henryxoliveira&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henryxoliveira&theme=github_dark)
+![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henryxoliveira&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henryxoliveira&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henryxoliveira&theme=github_dark)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henryxoliveira&theme=github_dark)
