@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryxoliveira&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryxoliveira&layout=compact&theme=github_dark&cache_seconds=86400)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=henryxoliveira&theme=github-dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henryxoliveira&theme=github-dark)
