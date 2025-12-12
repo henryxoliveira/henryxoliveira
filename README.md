@@ -1,7 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryxoliveira&layout=compact&theme=github_dark&cache_seconds=86400)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryxoliveira&layout=compact&theme=github_dark&cache_seconds=86400)
 
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=henryxoliveira&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=henryxoliveira&theme=github-dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henryxoliveira&theme=github-dark)
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henryxoliveira&theme=github_dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henryxoliveira&theme=github_dark)
